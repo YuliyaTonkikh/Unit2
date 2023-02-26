@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.serviceTest.CashbackHackServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-26T06:08:16" hostname="LAPTOP-LH5IK7A9" time="0.019">
+  <properties/>
+  <testcase name="CashbackHackService" classname="ru.netology.serviceTest.CashbackHackServiceTest" time="0.005"/>
+  <testcase name="CashbackHackService2" classname="ru.netology.serviceTest.CashbackHackServiceTest" time="0.0"/>
+  <testcase name="CashbackHackService3" classname="ru.netology.serviceTest.CashbackHackServiceTest" time="0.001"/>
+  <testcase name="CashbackHackService4" classname="ru.netology.serviceTest.CashbackHackServiceTest" time="0.0"/>
+  <testcase name="CashbackHackService5" classname="ru.netology.serviceTest.CashbackHackServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
